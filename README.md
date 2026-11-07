@@ -7,10 +7,10 @@ Trang tĩnh cho app Lighton (GitHub Pages).
 - https://lightonalan.github.io/privacy/
 - https://lightonalan.github.io/support/
 
-## Sumi (học tiếng Nhật)
-- Marketing: https://lightonalan.github.io/sumi/
-- Privacy: https://lightonalan.github.io/sumi/privacy/
-- Support: https://lightonalan.github.io/sumi/support/
+## jKana (học tiếng Nhật)
+- Marketing: https://lightonalan.github.io/jkana/
+- Privacy: https://lightonalan.github.io/jkana/privacy/
+- Support: https://lightonalan.github.io/jkana/support/
 
 ## AdMob
 - https://lightonalan.github.io/app-ads.txt
